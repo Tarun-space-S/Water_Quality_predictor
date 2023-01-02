@@ -5,10 +5,10 @@ Using popular and powerful python libraries i have deduced the best Machine Lear
 
 ## Set-up
 
-Download the dataset.csv file which has all the recorded data we use.
-Download the Water_Quality_MI_Project.ipynb into jupyter notebook
-Run all the commands
-If you dont have any depenencies "pyton -m pip install \library_name\"
+1.Download the dataset.csv file which has all the recorded data we use.
+2.Download the Water_Quality_MI_Project.ipynb into jupyter notebook.
+3.Run all the commands.
+4.If you dont have any depenencies "pyton -m pip install \library_name\".
 
 ## Libraries 
 
