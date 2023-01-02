@@ -3,6 +3,13 @@ An ML insight on predicting water quality for drinking by comparing with multipl
 
 Using popular and powerful python libraries i have deduced the best Machine Learning model to give the correct predection with the highest accuracy.
 
+## Set-up
+
+Download the dataset.csv file which has all the recorded data we use.
+Download the Water_Quality_MI_Project.ipynb into jupyter notebook
+Run all the commands
+If you dont have any depenencies "pyton -m pip install \library_name\"
+
 ## Libraries 
 
 ```bash
@@ -20,11 +27,11 @@ Using popular and powerful python libraries i have deduced the best Machine Lear
 ## Models
 
 ```bash
-### DECISION TREE
-### RANDOM FOREST
-### LOGISTIC REGRESSION
-### KNN
-### SVM
+DECISION TREE
+RANDOM FOREST
+LOGISTIC REGRESSION
+KNN
+SVM
 ```
 ## Rersults
 
